@@ -31,7 +31,7 @@ A Pokédex permite que os usuários explorem uma lista de Pokémons, visualizand
     ```bash
     bash
     Copiar código
-    git clone https://github.com/seuusuario/nome-do-repositorio.git
+    git clone https://github.com/Gabriella-Aquino/pokedex.git
     
     ```
     
