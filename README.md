@@ -39,6 +39,14 @@ A Pokédex permite que os usuários explorem uma lista de Pokémons, visualizand
 
 ---
 
+
+## Imagens 🎨
+
+![image](https://github.com/user-attachments/assets/42298651-f2a0-4c6d-ada8-554fbf2ac581)
+![image](https://github.com/user-attachments/assets/651ff584-03bb-4103-844e-232cfc10308c)
+
+
+
 ## Créditos 🎥
 
 Tutorial seguido: [Manual do Dev](https://www.youtube.com/@ManualdoDev)
